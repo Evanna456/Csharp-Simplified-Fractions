@@ -1,0 +1,15 @@
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\bin\Debug\net6.0\Csharp-Simplified-Fractions.exe
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\bin\Debug\net6.0\Csharp-Simplified-Fractions.deps.json
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\bin\Debug\net6.0\Csharp-Simplified-Fractions.runtimeconfig.json
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\bin\Debug\net6.0\Csharp-Simplified-Fractions.dll
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\bin\Debug\net6.0\Csharp-Simplified-Fractions.pdb
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.csproj.AssemblyReference.cache
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.AssemblyInfoInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.AssemblyInfo.cs
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.csproj.CoreCompileInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.dll
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\refint\Csharp-Simplified-Fractions.dll
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.pdb
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\Csharp-Simplified-Fractions.genruntimeconfig.cache
+D:\My Documents\Workshop\Csharp\Csharp-Simplified-Fractions\obj\Debug\net6.0\ref\Csharp-Simplified-Fractions.dll
